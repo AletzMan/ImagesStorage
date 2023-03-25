@@ -9,7 +9,7 @@
 	.st3{display:none;fill-rule:evenodd;clip-rule:evenodd;fill:#020203;}
 	.st4{display:none;}
 	.st5{display:inline;fill:#FFFFFF;}
-	.st6{fill:#010101;}
+	.st6{fill:#FFFFFF;}
 </style>
 <rect class="st0" width="300" height="300"/>
 <path class="st1" d="M150,5C69.9,5,5,69.9,5,150s64.9,145,145,145s145-64.9,145-145S230.1,5,150,5z M15.7,150
